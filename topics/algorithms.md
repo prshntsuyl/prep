@@ -198,7 +198,7 @@
 - Backtracking can be applied only for problems which admit the concept of a "partial candidate solution" and a relatively quick test of whether it can possibly be completed to a valid solution.
 - When it is applicable, however, backtracking is often much faster than brute force enumeration of all complete candidates, since it can eliminate a large number of candidates with a single test.
 
-## Lavenshtein Distance
+## Levenshtein Distance
 
 - A string metric for measuring the difference between two sequences.
 - The Levenshtein distance between two words is the minimum number of single-character edits (i.e. insertions, deletions or substitutions) required to change one word into the other.
