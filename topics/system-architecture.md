@@ -34,7 +34,7 @@
 - *Performance* increase is a function of *striping*: data is spread across multiple disks to allow reads and writes to use all the disks' IO queues simultaneously.
 - *Redundancy* is gained by creating special stripes that contain parity information, which can be used to recreate any lost data in the event of a hardware failure.
 - Hardware RAID – a dedicated hardware controller with a processor dedicated to RAID calculations and processing.
-- RAID 0 – *Stripping* – splits blocks of data into as many pieces as disks are in the array, and writes each piece to a separate disk.
+- RAID 0 – *Striping* – splits blocks of data into as many pieces as disks are in the array, and writes each piece to a separate disk.
     - Single disk failure means all data lost.
     - Increased in throughput: throughput of one disk * number of disks.
     - Total space is sum of all disks.
