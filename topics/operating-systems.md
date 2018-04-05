@@ -149,3 +149,18 @@
 - A race condition occurs when 2 or more threads are able to access shared data and they try to change it at the same time. Because the thread scheduling algorithm can swap between threads at any point, you don't know the order at which the threads will attempt to access the shared data. Therefore, the result of the change in data is dependent on the thread scheduling algorithm, i.e. both threads are 'racing' to access/change the data.
 - Often problems occur when one thread does a "check-then-act" (e.g. "check" if the value is X, and then "act" to do something that depends on the value being X) and another thread does something to the value in between the "check" and the "act".
 - In order to prevent race conditions occurring, typically you would put a lock around the shared data to ensure that only one thread can access the data at a time.
+
+## Sockets
+- Types of sockets:
+  - Datagram - Uses UPD for delivering packages. No guranty for order and delivery. 
+  - Stream - Order and delivery of packages guranteed. Usually uses TCP protocol. 
+  - Raw - no protocol specified on transport layer.
+  - Other - Unix Socket for example as one of IPC.
+- System calls
+  - bind - assigns a name to an unnamed socket
+  - connect - to establish a connection with a server
+  - accept - an actual connection from some client process is waited for by having the server execute the accept system call
+  - send, sendto, recv and recvfrom - are similar to the standard read and write system calls
+  - close - to close a socket.
+  
+   
