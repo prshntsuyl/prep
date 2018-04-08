@@ -151,16 +151,14 @@
 - In order to prevent race conditions occurring, typically you would put a lock around the shared data to ensure that only one thread can access the data at a time.
 
 ## Sockets
+A socket is one endpoint of a two-way communication link between two programs running on the network.
 - Types of sockets:
-  - Datagram - Uses UPD for delivering packages. No guranty for order and delivery. 
-  - Stream - Order and delivery of packages guranteed. Usually uses TCP protocol. 
-  - Raw - no protocol specified on transport layer.
-  - Other - Unix Socket for example as one of IPC.
-- System calls
-  - bind - assigns a name to an unnamed socket
-  - connect - to establish a connection with a server
-  - accept - an actual connection from some client process is waited for by having the server execute the accept system call
-  - send, sendto, recv and recvfrom - are similar to the standard read and write system calls
-  - close - to close a socket.
-  
-   
+  - Datagram - Uses [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) for delivering packets. No guaranty for order and delivery. 
+  - Stream - Order and delivery of packages guranteed. Typically uses (TCP)[https://en.wikipedia.org/wiki/Transmission_Control_Protocol] protocol or could also use [SCTP](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol) as well. 
+  - Raw - No protocol specified on transport layer.
+- System calls:
+  - `bind` - Assigns a name to an unnamed socket
+  - `connect` - To establish a connection with a server
+  - `accept` - An actual connection from some client process is waited for by having the server execute the accept system call
+  - `send, sendto, recv` and `recvfrom` - Are similar to the standard read and write system calls
+  - `close` - To close a socket.
