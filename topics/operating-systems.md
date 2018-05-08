@@ -151,14 +151,17 @@
 - In order to prevent race conditions occurring, typically you would put a lock around the shared data to ensure that only one thread can access the data at a time.
 
 ## Sockets
-A socket is one endpoint of a two-way communication link between two programs running on the network.
-- Types of sockets:
-  - Datagram - Uses [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) for delivering packets. No guaranty for order and delivery. 
-  - Stream - Order and delivery of packages guranteed. Typically uses (TCP)[https://en.wikipedia.org/wiki/Transmission_Control_Protocol] protocol or could also use [SCTP](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol) as well. 
-  - Raw - No protocol specified on transport layer.
+
+- A socket is one endpoint of a two-way communication link between two programs running on the network. They exist on the transport layer
+- You can send and receive things on a socket, you can bind and listen to a socket.
+- A socket is specific to a protocol, machine, and port, and is addressed as such in the header of a packet.
+- Sockets types:
+  - Datagram — Uses [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) for delivering packets. No guaranty for order and delivery.
+  - Stream — Typically uses [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) or [SCTP](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol). Order and delivery of packages is guranteed.
+  - Raw — No protocol specified on transport layer.
 - System calls:
-  - `bind` - Assigns a name to an unnamed socket
-  - `connect` - To establish a connection with a server
-  - `accept` - An actual connection from some client process is waited for by having the server execute the accept system call
-  - `send, sendto, recv` and `recvfrom` - Are similar to the standard read and write system calls
-  - `close` - To close a socket.
+  - `bind` — Assigns a name to an unnamed socket.
+  - `connect` — Establish a connection with a server.
+  - `accept` — A connection from a client process is waited for by having the server execute the `accept` system call.
+  - `send`, `sendto, `recv` and `recvfrom` — Similar to the standard `read` and `write` system calls.
+  - `close` — Close a socket.
