@@ -152,7 +152,7 @@
 
 ## Sockets
 
-- A socket is one endpoint of a two-way communication link between two programs running on the network. They exist on the transport layer
+- A socket is one endpoint of a two-way communication link between two programs running on the network, existing on the transport layer.
 - You can send and receive things on a socket, you can bind and listen to a socket.
 - A socket is specific to a protocol, machine, and port, and is addressed as such in the header of a packet.
 - Sockets types:
