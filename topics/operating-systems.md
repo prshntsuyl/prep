@@ -163,5 +163,5 @@
   - `bind` – Assigns a name to an unnamed socket.
   - `connect` – Establish a connection with a server.
   - `accept` – A connection from a client process is waited for by having the server execute the `accept` system call.
-  - `send`, `sendto, `recv` and `recvfrom` – Similar to the standard `read` and `write` system calls.
+  - `send`, `sendto`, `recv` and `recvfrom` – Similar to the standard `read` and `write` system calls.
   - `close` – Close a socket.
