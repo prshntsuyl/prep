@@ -155,7 +155,7 @@
 - A socket is one endpoint of a two-way communication link between two programs running on the network, existing on the transport layer.
 - You can send and receive things on a socket, you can bind and listen to a socket.
 - A socket is specific to a protocol, machine, and port, and is addressed as such in the header of a packet.
-- Sockets types:
+- Socket types:
   - Datagram – Uses [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) for delivering packets. No guaranty for order and delivery.
   - Stream – Typically uses [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) or [SCTP](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol). Order and delivery of packages is guranteed.
   - Raw – No protocol specified on transport layer.
