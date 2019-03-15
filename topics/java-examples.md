@@ -415,7 +415,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-Charset charset = Charset.forName("UTF-8")
+Charset charset = Charset.forName("UTF-8");
 Path path = Paths.get("/path/to/file");
 ```
 
