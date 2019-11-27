@@ -79,5 +79,5 @@ Ranking algorithms options:
 
 ### Scaling
 
-- A single word could appear in too many documents, and so maintaining a single key-value pair for that word is not fesible.
+- A single word could appear in too many documents, and so maintaining a single key-value pair for that word is not feasible.
 - Most likely need to shard documents based on URL (domain), and then query all shards (fan-out) for each keyword in the search query.
