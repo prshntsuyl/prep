@@ -26,3 +26,10 @@ Want to contribute? Great! Please read [CONTRIBUTING](https://github.com/orrsell
 - [x] [P,NP](topics/p-np.md)
 
 [more on design repository](https://github.com/prshntsuyl/system-design-interview)
+
+## More to follow
+
+- [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
+- [Java Guide](https://snailclimb.gitee.io/javaguide/#/)
+
+
