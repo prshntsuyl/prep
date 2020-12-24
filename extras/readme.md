@@ -1,7 +1,7 @@
 ## Questions Preparation (min 70) | STAGE-1
 ---
 ### Arrays
-- [ ] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/)
+- [ ] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) | [local](../practice/array/Anagram.java)
 - [ ] [Xyz]()
 
 ### Stacks
