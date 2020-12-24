@@ -32,7 +32,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 ## More to follow
 
 - [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
-- [Java Guide](https://snailclimb.gitee.io/javaguide/#/)
+- [Java Guide | Walkthrough atleast once](https://snailclimb.gitee.io/javaguide/#/)
 
 
 ## Practice questions
