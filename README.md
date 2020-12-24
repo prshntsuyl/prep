@@ -1,6 +1,6 @@
 # Software Engineering Interview Preparation
 
-See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/) for more background and tips on preparing for an interview.
+See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/) and [this](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/) for more background and tips on preparing for an interview.
 
 Check this flow : 
 
