@@ -33,3 +33,7 @@ Want to contribute? Great! Please read [CONTRIBUTING](https://github.com/orrsell
 - [Java Guide](https://snailclimb.gitee.io/javaguide/#/)
 
 
+## Practice questions
+- [Here](extras/readme.md)
+
+
