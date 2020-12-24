@@ -1,4 +1,4 @@
-## Questions Preparation (min 70) | STAGE-1
+## Questions Preparation (min 70) | STAGE-1 | 3 Questions a day
 ---
 ### Arrays
 - [ ] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) | [local](../practice/array/Anagram.java)
