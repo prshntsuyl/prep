@@ -9,7 +9,6 @@ Check this flow :
 Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/master/SUMMARY.md) (or see below). It's also available in [GitBook format](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/) for easier reading and navigation.
 
 ## A.1 Topics
-
 - [ ] [Complexity](topics/complexity.md)
 - [x] [Data Structures](topics/data-structures.md)
 - [ ] [Data Structures Examples](topics/data-structures-examples.md)
@@ -27,7 +26,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [x] [OOP](topics/oop.md)
 - [x] [P,NP](topics/p-np.md)
 
-## A.2 Jetbrains
+## A.2 Topics
 [Hyperskills jetbrains](https://hyperskill.org/curriculum)
   - [ ] java
   - [ ] algorithms
