@@ -3,7 +3,6 @@
 ### Strings
 - [x] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) | [local](../practice/array/Anagram.java)
 - [x] [Longest Distinct Character](../practice/array/)
-- [x] [Longest Distinct Character](../practice/array/)
 - [x] [Remove Duplicates](../practice/array/)
 - [x] [Reverse Separated Words](../practice/array/)
 
