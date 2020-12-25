@@ -8,7 +8,7 @@ Check this flow :
 
 Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/master/SUMMARY.md) (or see below). It's also available in [GitBook format](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/) for easier reading and navigation.
 
-## Topics
+## A.1 Topics
 
 - [ ] [Complexity](topics/complexity.md)
 - [x] [Data Structures](topics/data-structures.md)
@@ -27,7 +27,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [x] [OOP](topics/oop.md)
 - [x] [P,NP](topics/p-np.md)
 
-## Jetbrains
+## A.2 Jetbrains
 [Hyperskills jetbrains](https://hyperskill.org/curriculum)
   - [ ] java
   - [ ] algorithms
@@ -38,15 +38,20 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
   - [ ] maths
 
 
-## More to follow
-- [Design repository](https://github.com/prshntsuyl/system-design-interview)
-- [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
-- [Java Guide | Walkthrough atleast once](https://snailclimb.gitee.io/javaguide/#/)
-- System Design Primer
+## B.1 More to follow
+- [ ] [Design repository](https://github.com/prshntsuyl/system-design-interview)
+- [x] [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
+- [ ] [Java Guide | Walkthrough atleast once](https://snailclimb.gitee.io/javaguide/#/)
 
 
 
-## Practice questions
+## B.2 Practice questions
 - [Here](extras/readme.md)
+
+
+## C.1 Last Stage
+- [ ] System Design Primer
+
+
 
 
