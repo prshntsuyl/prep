@@ -27,7 +27,8 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [x] [OOP](topics/oop.md)
 - [x] [P,NP](topics/p-np.md)
 
-- [Hyperskills jetbrains](https://hyperskill.org/curriculum)
+## Jetbrains
+[Hyperskills jetbrains](https://hyperskill.org/curriculum)
   - [ ] java
   - [ ] algorithms
     - [ ] graphs
@@ -36,11 +37,12 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
   - [x] databases
   - [ ] maths
 
+
 ## More to follow
 - [Design repository](https://github.com/prshntsuyl/system-design-interview)
 - [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
 - [Java Guide | Walkthrough atleast once](https://snailclimb.gitee.io/javaguide/#/)
-- [ ] System Design Primer
+- System Design Primer
 
 
 
