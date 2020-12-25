@@ -54,6 +54,8 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [ ] Experienced Practice questions
 - [ ] Manage Microservices book walkthrough
 - [ ] Spring boot book walkthrough
+- [ ] Data Science skills
+- [ ] ML skills
 
 
 
