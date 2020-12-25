@@ -1,11 +1,13 @@
 ## Questions Preparation (min 70) | [STAGE-1](track.md)
 ---
-### Arrays
+### Strings
 - [x] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) | [local](../practice/array/Anagram.java)
 - [x] [Longest Distinct Character]()
 - [x] [Longest Distinct Character]()
 - [x] [Remove Duplicates]()
 - [x] [Reverse Separated Words]()
+
+### Arrays
 
 ### Stacks
 
