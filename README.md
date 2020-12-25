@@ -33,6 +33,15 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 - [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
 - [Java Guide | Walkthrough atleast once](https://snailclimb.gitee.io/javaguide/#/)
+- [Hyperskills jetbrains](https://hyperskill.org/curriculum)
+  - [ ] java
+  - [ ] algorithms
+    - [ ] graphs
+  - [x] essentials
+  - [x] devtools
+  - [x] databases
+  - [ ] maths
+  
 
 
 ## Practice questions
