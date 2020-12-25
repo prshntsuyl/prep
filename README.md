@@ -49,7 +49,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 
 ## C.1 Last Stage
-- [ ] System Design Primer
+- [ ] [System Design Primer](https://github.com/prshntsuyl/design-primer)
   - [ ] [Youtube Playlist](https://youtu.be/UzLMhqg3_Wc?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2&t=442)
 - [ ] Experienced Practice questions
 - [ ] Manage Microservices book walkthrough
