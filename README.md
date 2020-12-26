@@ -11,9 +11,9 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 ## A.1 Topics
 - [x] [Complexity](topics/complexity.md)
 - [x] [Data Structures](topics/data-structures.md)
-- [ ] [Data Structures Examples](topics/data-structures-examples.md)
-- [ ] [Algorithms](topics/algorithms.md)
-- [ ] [Algorithms Examples](topics/algorithms-examples.md)
+- [ ] [~~Data Structures Examples~~](topics/data-structures-examples.md)
+- [ ] [~~Algorithms~~](topics/algorithms.md)
+- [ ] [~~Algorithms Examples~~](topics/algorithms-examples.md)
 - [x] [Bit Operators](topics/bit-operators.md)
 - [x] [Numbers](topics/numbers.md)
 - [x] [Operating Systems](topics/operating-systems.md)
