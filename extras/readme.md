@@ -20,7 +20,7 @@
 ### Linked List
 - [x] [Middle Element](../practice/linklist/MiddleElement.java)
 - [x] [Nth node from last](../practice/linklist/NthNode.java)
-- [ ] [Reverse Link List](../practice/linklist/ReverseLinkList.java)
+- [x] [Reverse Link List](../practice/linklist/ReverseLinkList.java)
 
 ### Queue
 
