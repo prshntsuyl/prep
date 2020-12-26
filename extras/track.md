@@ -1,7 +1,7 @@
 | Day | Todo | Completed
 --- | --- | ---
 24 Dec | 4/6 | 4/6
-25 Dec | 6 | 12
+25 Dec | 5/6 | 9/12
 26 Dec | 6 | 18
 27 Dec | 6 | 24
 28 Dec | 3 | 27
