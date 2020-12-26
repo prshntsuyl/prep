@@ -8,6 +8,7 @@
 
 ### Arrays
 - [x] [Missing Number](../practice/array/)
+- [x] [Majority Element/Moore Voting](../practice/array/MajorityElement.java)
 
 ### Stacks
 
