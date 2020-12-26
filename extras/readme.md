@@ -7,6 +7,7 @@
 - [x] [Reverse Separated Words](../practice/strings/)
 
 ### Arrays
+- [x] [Missing Number](../practice/array/)
 
 ### Stacks
 
