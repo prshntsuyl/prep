@@ -41,6 +41,8 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [ ] [Design repository](https://github.com/prshntsuyl/system-design-interview)
 - [x] [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
 - [ ] [Java Guide | Walkthrough atleast once](https://snailclimb.gitee.io/javaguide/#/)
+- [ ] Tech Primer
+  - [ ] Serverless
 
 
 
@@ -52,8 +54,6 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [ ] [System Design Primer](https://github.com/prshntsuyl/design-primer)
   - [ ] [Youtube Playlist](https://youtu.be/UzLMhqg3_Wc?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2&t=442): ~~1,2,3,4~~,5
 - [ ] Experienced Practice questions
-- [ ] Tech Primer
-  - [ ] Serverless
 - [ ] Manage Microservices book walkthrough
 - [ ] Spring boot book walkthrough
 
