@@ -11,6 +11,7 @@
 - [x] [Majority Element/Moore Voting](../practice/array/MajorityElement.java)
 - [X] [Largest Subarray](../practice/array/LargestSubarray.java)
 - [X] [Sort 0s 1s 2s](../practice/array/Sort012s.java)
+- [X] [StockBuySell](../practice/array/StockBuySell.java)
 
 ### Stacks
 
