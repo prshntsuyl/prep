@@ -21,6 +21,7 @@
 - [x] [Middle Element](../practice/linklist/MiddleElement.java)
 - [x] [Nth node from last](../practice/linklist/NthNode.java)
 - [x] [Reverse Link List](../practice/linklist/ReverseLinkList.java)
+- [x] [Detect Loop](../practice/linklist/DetectLoop.java)
 
 ### Queue
 
