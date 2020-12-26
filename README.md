@@ -18,11 +18,11 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [x] [Numbers](topics/numbers.md)
 - [x] [Operating Systems](topics/operating-systems.md)
 - [x] [System Architecture](topics/system-architecture.md)
-- [ ] [System Architecture Examples](topics/system-architecture-examples.md)
+- [x] [System Architecture Examples](topics/system-architecture-examples.md)
 - [x] [Networking](topics/networking.md)
 - [x] [Strings](topics/strings.md)
 - [x] [Java](topics/java.md)
-- [ ] [Java Examples](topics/java-examples.md)
+- [x] [Java Examples](topics/java-examples.md)
 - [x] [OOP](topics/oop.md)
 - [x] [P,NP](topics/p-np.md)
 
