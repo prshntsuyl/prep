@@ -33,6 +33,7 @@ class MiddleElement {
     System.out.println(getMiddle(nodo1));
   }
 
+  // could have used two pointer: one fast and slower
   static int getMiddle(Node head) {
     Node initial = head;
     // Your code here.
