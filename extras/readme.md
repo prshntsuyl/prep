@@ -23,6 +23,7 @@
 - [x] [Reverse Link List](../practice/linklist/ReverseLinkList.java)
 - [x] [Detect Loop](../practice/linklist/DetectLoop.java)
 - [x] [Merge two sorted Linked List](../practice/linklist/MergeTwoLL.java)
+- [x] [Y Intersection Point](../practice/linklist/IntersectionPoint.java)
 
 ### Queue
 
