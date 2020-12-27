@@ -35,7 +35,7 @@ class MergeTwoLL {
 
   }
 
-  // Method-1
+  // Method-1: using recursion
   public static Node sortedMerge(Node A, Node B) {
     if (A == null)
       return B;
