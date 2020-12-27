@@ -29,7 +29,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 ## A.2 Topics
 [Hyperskills jetbrains](https://hyperskill.org/curriculum)
-  - [ ] java: 4/22
+  - [ ] java: 7/22
   - [ ] algorithms
     - [ ] graphs
   - [x] essentials
@@ -44,7 +44,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [ ] [Java Guide (Walkthrough atleast once)](https://snailclimb.gitee.io/javaguide/#/) <- Requires: Java Jetbrains
 - [ ] Tech Primer
   - [x] Serverless
-  - [ ] Microservice(5/23)
+  - [ ] Microservice(14/23)
 
 
 
