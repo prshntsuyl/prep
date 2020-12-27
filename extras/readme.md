@@ -41,7 +41,7 @@
 ## Try More one here | STAGE-2
 [Interview Corner](https://www.geeksforgeeks.org/company-interview-corner/)
 
-[Top Interview Question](https://leetcode.com/explore/interview/card/top-interviw-questions-medium)
+[Top Interview Question](https://leetcode.com/explore/interview/card/top-interview-questions-medium)
 
 ### Miscell
 [Sandbox to practice](https://coderpad.io/launch-sandbox)
