@@ -14,6 +14,7 @@
 - [X] [StockBuySell](../practice/array/StockBuySell.java)
 
 ### Stacks
+- [X] [Parenthesis](../practice/stacks/Parenthesis.java)
 
 ### Trees(BT|BST|Heap)
 
