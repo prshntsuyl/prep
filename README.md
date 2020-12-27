@@ -29,7 +29,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 ## A.2 Topics
 [Hyperskills jetbrains](https://hyperskill.org/curriculum)
-  - [ ] java
+  - [ ] java: 4/22
   - [ ] algorithms
     - [ ] graphs
   - [x] essentials
