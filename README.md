@@ -59,7 +59,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [ ] Spring boot book walkthrough
 
 ## C.2 Practice more questions
-- [ ] Experienced Practice questions
+- Experienced Practice questions
 
 ## C.3 Nice to have
 - [ ] Data Science skills
