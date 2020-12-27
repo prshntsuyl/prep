@@ -44,4 +44,24 @@ class QueueWithStacks {
 
     }
   }
+
+  // if question was create stack from two queue
+  class StackFromTwoQueue {
+    StackQueue<Integer> s1 = new StackQueue<Integer>();
+    StackQueue<Integer> s2 = new StackQueue<Integer>();
+
+    /*
+     * The method insert to push element into the queue
+     */
+    void Push(int x) {
+      // until q2 is empty then only push
+    }
+
+    /*
+     * The method remove which return the element popped out of the queue
+     */
+    int Pop() {
+      // until q1 is empty push in q2 and dont push last element and return it
+    }
+  }
 }
