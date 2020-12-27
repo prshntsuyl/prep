@@ -19,6 +19,10 @@
  - why (2x - min)?
 - [X] [Next Larger Element](../practice/stacks/NextLarger.java)
 
+### Queue
+- [X] [Queue From two stacks](../practice/queues/QueueWithStacks.java)
+- [X] [Stack From two queues](../practice/queues/QueueWithStacks.java)
+
 ### Trees(BT|BST|Heap)
 
 ### Linked List
@@ -28,8 +32,6 @@
 - [x] [Detect Loop](../practice/linklist/DetectLoop.java)
 - [x] [Merge two sorted Linked List](../practice/linklist/MergeTwoLL.java)
 - [x] [Y Intersection Point](../practice/linklist/IntersectionPoint.java)
-
-### Queue
 
 ### Graphs(DFS|BFS)
 
