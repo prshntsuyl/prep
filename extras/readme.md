@@ -26,6 +26,9 @@
  - Using Doubly LinkList: Provides constant time persistence and HashMap: Provides constant time Lookup
  - removes node completely then add to head to consistently update the LRU linked list.
 
+### Recursion
+- [X] [Number of Paths](../practice/recursion/NumOfPaths.java)
+
 ### Trees(BT|BST|Heap)
 
 ### Linked List
