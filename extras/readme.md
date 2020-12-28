@@ -28,6 +28,7 @@
 
 ### Recursion
 - [X] [Number of Paths](../practice/recursion/NumOfPaths.java)
+- [X] [Josephus](../practice/recursion/Josephus.java)
 
 ### Trees(BT|BST|Heap)
 
