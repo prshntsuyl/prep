@@ -22,7 +22,7 @@
 ### Queue
 - [X] [Queue From two stacks](../practice/queues/QueueWithStacks.java)
 - [X] [Stack From two queues](../practice/queues/QueueWithStacks.java)
-- [X] [LRU Cache](https://www.geeksforgeeks.org/design-a-data-structure-for-lru-cache/)
+- [X] [LRU Cache](https://www.geeksforgeeks.org/design-a-data-structure-for-lru-cache/) (Using Doubly LinkList and HashMap)
 
 ### Trees(BT|BST|Heap)
 
