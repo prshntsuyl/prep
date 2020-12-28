@@ -49,7 +49,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 
 ## B.2 Practice questions
-- [Here (15/72)](extras/readme.md)
+- [Here (21/72)](extras/readme.md)
 
 
 ## C.1 Last Stage
