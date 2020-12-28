@@ -18,7 +18,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [x] [Numbers](topics/numbers.md)
 - [x] [Operating Systems](topics/operating-systems.md)
 - [x] [System Architecture](topics/system-architecture.md)
-  - [ ] Review Concepts
+  - [ ] `Review Concepts`
 - [x] [System Architecture Examples](topics/system-architecture-examples.md)
 - [x] [Networking](topics/networking.md)
 - [x] [Strings](topics/strings.md)
@@ -29,7 +29,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 ## A.2 Topics
 [Hyperskills jetbrains](https://hyperskill.org/curriculum)
-  - [ ] java: 7/22
+  - [ ] `java: 7/22` 
   - [ ] algorithms
     - [ ] graphs
   - [x] essentials
