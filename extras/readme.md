@@ -22,7 +22,9 @@
 ### Queue
 - [X] [Queue From two stacks](../practice/queues/QueueWithStacks.java)
 - [X] [Stack From two queues](../practice/queues/QueueWithStacks.java)
-- [X] [LRU Cache](https://www.geeksforgeeks.org/design-a-data-structure-for-lru-cache/) (Using Doubly LinkList and HashMap)
+- [X] [LRU Cache](https://www.geeksforgeeks.org/design-a-data-structure-for-lru-cache/)
+ - Using Doubly LinkList: Provides constant time persistence and HashMap: Provides constant time Lookup
+ - removes node completely then add to head to consistently update the LRU linked list.
 
 ### Trees(BT|BST|Heap)
 
