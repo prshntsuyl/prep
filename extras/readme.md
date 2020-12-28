@@ -29,6 +29,8 @@
 ### Recursion
 - [X] [Number of Paths](../practice/recursion/NumOfPaths.java)
 - [X] [Josephus](../practice/recursion/Josephus.java)
+- [ ] [CombinationSum](https://www.geeksforgeeks.org/combinational-sum/#:~:text=Given%20an%20array%20of%20positive)
+- [ ] [Keyboard Max A's](https://www.geeksforgeeks.org/how-to-print-maximum-number-of-a-using-given-four-keys/)
 
 ### Trees(BT|BST|Heap)
 
