@@ -1,10 +1,9 @@
 package practice.recursion;
 
-class Josephus {
+public class Josephus {
 
     public static void main(String[] args) {
         System.out.println(josephus(7, 3));
-        System.out.println("testting");
     }
 
     static int josephus(int n, int k) {
