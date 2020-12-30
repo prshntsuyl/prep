@@ -43,6 +43,9 @@
 - [x] [Merge two sorted Linked List](../practice/linklist/MergeTwoLL.java)
 - [x] [Y Intersection Point](../practice/linklist/IntersectionPoint.java)
 
+### Hashing
+- [x] [Relative Sorting](../practice/hashing/RelativeSorting.java) 
+
 ### Graphs(DFS|BFS)
 
 ### DP
