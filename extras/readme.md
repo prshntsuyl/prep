@@ -48,6 +48,7 @@
 - [x] [Set Kth Bit](../practice/hashing/SetKth.java)
  - using bitwise OR
 - [x] [Zero Sum](../practice/hashing/ZeroSum.java)
+- [x] [Uncommon Characters](../practice/hashing/UncommonCharacters.java)
 
 ### Graphs(DFS|BFS)
 
