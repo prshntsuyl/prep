@@ -47,6 +47,7 @@
 - [x] [Relative Sorting](../practice/hashing/RelativeSorting.java)
 - [x] [Set Kth Bit](../practice/hashing/SetKth.java)
  - using bitwise OR
+- [x] [Zero Sum](../practice/hashing/ZeroSum.java)
 
 ### Graphs(DFS|BFS)
 
