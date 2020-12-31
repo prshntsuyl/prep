@@ -44,7 +44,9 @@
 - [x] [Y Intersection Point](../practice/linklist/IntersectionPoint.java)
 
 ### Hashing
-- [x] [Relative Sorting](../practice/hashing/RelativeSorting.java) 
+- [x] [Relative Sorting](../practice/hashing/RelativeSorting.java)
+- [x] [Set Kth Bit](../practice/hashing/SetKth.java)
+ - using bitwise OR
 
 ### Graphs(DFS|BFS)
 
