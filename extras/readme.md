@@ -34,8 +34,8 @@
 - [X] [Flood Fill google](../practice/recursion/floodfill.java)
 
 ### Trees(BT|BST|Heap)
-- [ ] [Find height](../practice/treeq/FindHeight.java) 
-- [ ] [Find LCA](../practice/treeq/FindLCA.java)  
+- [x] [Find height](../practice/treeq/FindHeight.java) 
+- [x] [Find LCA](../practice/treeq/FindLCA.java)  
 
 ### Linked List
 - [x] [Middle Element](../practice/linklist/MiddleElement.java)
