@@ -29,6 +29,7 @@ public class FindLCA {
         System.out.println(LCA(firstNode, 3, 4).data);
     }
 
+    // recursive is good option than this
     static Node LCA(Node root, int n1, int n2) {
         if (n1 == n2 || n1 == root.data || n2 == root.data) {
             return root;
