@@ -1,10 +1,12 @@
 package practice.treeq;
 
 /**
- * FindHeight
+ * Diameter
  */
-public class FindHeight {
+public class Diameter {
 
+    // refer:
+    // https://www.geeksforgeeks.org/diameter-of-a-binary-tree-in-on-a-new-method/
     public static void main(String[] args) {
         Node firstNode = new Node(1);
         {
@@ -23,7 +25,17 @@ public class FindHeight {
             }
         }
 
-        System.out.println(height(firstNode));
+        System.out.println(diameter(firstNode));
+    }
+
+    static int diameter(Node root) {
+        // Your code here
+        if (root == null) {
+            return 0;
+        }
+
+        return height(root.left) + height(root.right) + 1;
+
     }
 
     static int height(Node node) {
@@ -49,4 +61,5 @@ public class FindHeight {
             left = right = null;
         }
     }
+
 }
