@@ -35,7 +35,9 @@
 
 ### Trees(BT|BST|Heap)
 - [x] [Find height](../practice/treeq/FindHeight.java) 
-- [x] [Find LCA](../practice/treeq/FindLCA.java)  
+- [x] [Find LCA](../practice/treeq/FindLCA.java) 
+- [x] [Identical Tree](../practice/treeq/IdenticalTree.java) 
+- [x] [Diameter](../practice/treeq/Diameter.java) 
 
 ### Linked List
 - [x] [Middle Element](../practice/linklist/MiddleElement.java)
