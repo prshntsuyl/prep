@@ -1,4 +1,4 @@
-##What to Study
+## What to Study
 
 First, the absolute must-haves, in order:
 [ ] Trees (especially Binary Search Trees)
@@ -8,33 +8,33 @@ First, the absolute must-haves, in order:
 [ ] Object Oriented Design/Systems Design
 [ ] Algorithms: Breadth First Search/Depth First Search, Binary Search, Merge Sort and Quick Sort
 
-###Again, in order of priority:
+### Again, in order of priority:
 [ ] Arrays
 [ ] Recursion (remember the termination clause!!)
 [ ] Linked Lists
 [ ] Stacks/Queues
 [ ] Bit Manipulation
 
-##Books: 
+## Books: 
 - Introduction to Algorithms
 - Steven Skiena's The Algorithm Design Manual
 - Doug Lea's Concurrent Programming in Java
 
-####In detail:
+#### In detail:
 [Lecture Slides](https://www3.cs.stonybrook.edu/~skiena/373/videos/) || [Youtube Lecture Videos](https://www.youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=1)
 
-#####Algorithm Complexity: 
+##### Algorithm Complexity: 
 you need to know Big-O. It's a must. If you struggle with basic big-O complexity analysis, then you are almost guaranteed not to get hired. It's, like, one chapter in the beginning of one theory of computation book, so just go read it. You can do it.
 
 Sorting: know how to sort. Don't do bubble-sort. You should know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort).
 * Merge sort can be highly useful in situations where quicksort is impractical, so take a look at it.
 * For God's sake, don't try sorting a linked list during the interview.
 
-#####Hashtables: 
+##### Hashtables: 
 hashtables are arguably the single most important data structure known to mankind. You absolutely have to know how they work. Again, it's like one chapter in one data structures book, so just go read about them. 
 * You should be able to implement one using only arrays in your favorite language, in about the space of one interview.
 
-#####Trees: 
+##### Trees: 
 you should know about trees. I'm tellin' ya: this is basic stuff, and it's embarrassing to bring it up, but some of you out there don't know basic 
 * tree construction, traversal and manipulation algorithms. 
 * You should be familiar with binary trees, n-ary trees, and trie-trees at the very very least. 
@@ -45,7 +45,7 @@ you should know about trees. I'm tellin' ya: this is basic stuff, and it's embar
 
 You might not use trees much day-to-day, but if so, it's because you're avoiding tree problems. You won't need to do that anymore once you know how they work. Study up!
 
-#####Graphs
+##### Graphs
 
 Graphs are, like, really really important. More than you think. Even if you already think they're important, it's probably more than you think.
 
@@ -66,7 +66,7 @@ You should study up on as many other data structures and algorithms as you can f
 
 Basically, hit that data structures book hard, and try to retain as much of it as you can, and you can't go wrong.
 
-#####Operating Systems
+##### Operating Systems
 
 This is just a plug, from me, for you to know about processes, threads and concurrency issues. A lot of interviewers ask about that stuff, and it's pretty fundamental, so you should know it. 
 * Know about locks and mutexes and semaphores and monitors and how they work. 
@@ -75,11 +75,11 @@ This is just a plug, from me, for you to know about processes, threads and concu
 
 The best, most practical book I've ever personally read on the subject is Doug Lea's Concurrent Programming in Java. It got me the most bang per page. There are obviously lots of other books on concurrency. I'd avoid the academic ones and focus on the practical stuff, since it's most likely to get asked in interviews.
 
-#####Coding
+##### Coding
 
 You should know at least one programming language really well, and it should preferably be C++ or Java. C# is OK too, since it's pretty similar to Java. You will be expected to write some code in at least some of your interviews. You will be expected to know a fair amount of detail about your favorite programming language.
 
-#####Math
+##### Math
 
 Some interviewers ask basic discrete math questions. This is more prevalent at Google than at other places I've been, and I consider it a Good Thing, even though I'm not particularly good at discrete math. We're surrounded by counting problems, probability problems, and other Discrete Math 101 situations, and those innumerate among us blithely hack around them without knowing what we're doing.
 
@@ -90,7 +90,7 @@ I know, I know, you're short on time. But this tip can really help make the diff
 Sadly, I don't have a good recommendation for a Discrete Math book, so if you do, please mention it in the comments. Thanks.
 
 
-#####Other Stuff
+##### Other Stuff
 
 Because of the rules I outlined above, it's still possible that you'll get Interviewer A, and none of the stuff you've studied from these tips will be directly useful (except being warmed up.) If so, just do your best. Worst case, you can always come back in 6-12 months, right? Might seem like a long time, but I assure you it will go by in a flash.
 
