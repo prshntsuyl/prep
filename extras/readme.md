@@ -40,7 +40,7 @@
 - [x] [Diameter](../practice/treeq/Diameter.java) 
 
 - [x] [Heap Sort/Heapify](https://www.geeksforgeeks.org/heap-sort/) 
-- [] [Left View](https://www.geeksforgeeks.org/treeq/LeftView.java) 
+- [ ] [Left View](https://www.geeksforgeeks.org/treeq/LeftView.java) 
 - [x] [Count Leaves](https://www.geeksforgeeks.org/treeq/CountLeaves.java) 
 - [x] [Mirror tree](https://www.geeksforgeeks.org/treeq/MirrorTree.java) 
 
