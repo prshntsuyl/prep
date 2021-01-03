@@ -66,8 +66,6 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [ ] Data Science skills
 - [ ] ML skills
 
-Testing
-<span style="color:blue">some *blue* text</span>.
 
 
 
