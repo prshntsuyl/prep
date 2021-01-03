@@ -60,6 +60,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 ## C.2 Practice more questions
 - Experienced Practice questions
+- [Full proof guide](./guides/readme.md)
 
 ## C.3 Nice to have
 - [ ] Data Science skills
