@@ -1,19 +1,19 @@
 ## What to Study
 
 First, the absolute must-haves, in order:
-[ ] Trees (especially Binary Search Trees)
-[ ] Trees (especially Binary Search Trees) — again
-[ ] Big O Notation
-[ ] Hash Tables(finish a chapter and implement it too)
-[ ] Object Oriented Design/Systems Design
-[ ] Algorithms: Breadth First Search/Depth First Search, Binary Search, Merge Sort and Quick Sort
+- [ ] Trees (especially Binary Search Trees)
+- [ ] Trees (especially Binary Search Trees) — again
+- [ ] Big O Notation
+- [ ] Hash Tables(finish a chapter and implement it too)
+- [ ] Object Oriented Design/Systems Design
+- [ ] Algorithms: Breadth First Search/Depth First Search, Binary Search, Merge Sort and Quick Sort
 
 ### Again, in order of priority:
-[ ] Arrays
-[ ] Recursion (remember the termination clause!!)
-[ ] Linked Lists
-[ ] Stacks/Queues
-[ ] Bit Manipulation
+- [ ] Arrays
+- [ ] Recursion (remember the termination clause!!)
+- [ ] Linked Lists
+- [ ] Stacks/Queues
+- [ ] Bit Manipulation
 
 ## Books: 
 - Introduction to Algorithms
