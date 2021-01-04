@@ -42,7 +42,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [ ] [Design repository](https://github.com/prshntsuyl/system-design-interview)
 - [x] [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
 - [ ] [Java Guide (Walkthrough atleast once)](https://snailclimb.gitee.io/javaguide/#/) <- Requires: Java Jetbrains
-- [ ] DP for interviews book
+- [ ] [DP for interviews book](https://www.dropbox.com/s/oapcdpzprr6ny44/DP-for-Interviews.pdf?dl=0)
 - [ ] Tech Primer
   - [x] Serverless
   - [ ] Microservice(14/23)
@@ -51,7 +51,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 ## B.2 Practice questions
 - [Here (34/72)](extras/readme.md)
-- [ ] Review 50 Question 
+- Review 50 Question 
 
 
 ## C.1 Last Stage
