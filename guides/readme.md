@@ -17,7 +17,7 @@ First, the absolute must-haves, in order:
 
 ## Books: 
 - Introduction to Algorithms
-- Steven Skiena's The Algorithm Design Manual | 
+- Steven Skiena's The Algorithm Design Manual : 
 [Lecture Slides](https://www3.cs.stonybrook.edu/~skiena/373/videos/) || [Youtube Lecture Videos](https://www.youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=1)
 - Doug Lea's Concurrent Programming in Java
 
