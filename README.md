@@ -29,7 +29,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 ## A.2 Topics
 [Hyperskills jetbrains](https://hyperskill.org/curriculum)
-  - [x] `java: 18/22`
+  - [x] `java: 19/22`
     - [ ] design patterns
     - [ ] functional programming
   - [ ] algorithms
