@@ -7,6 +7,8 @@
 - [ ] AWS
 - [ ] System design interview
 
+![Design track](./images/designtrack.jpg)
+
 ### 2. JAVA
 [Java Crash course](https://www.educative.io/track/java-for-programmers)
 - [ ] Crash 
@@ -16,6 +18,8 @@
 - [ ] Unit test
 [optional](https://www.educative.io/track/ace-java-coding-interview)
 
+![Java track](./images/javatrack.jpg)
+
 ### 3. MLE role
 ML-[Track](https://www.educative.io/track/become-ml-engineer) for Machine Learning engineer
 - [ ] ML for software engineers
@@ -23,5 +27,7 @@ ML-[Track](https://www.educative.io/track/become-ml-engineer) for Machine Learni
 - [ ] NLP
 - [ ] Applied ML
 - [ ] Applied ML: Tensor flow
+
+![MLE track](./images/mltrack.jpg)
 
 #### local folder: /Users/macdrive/CS/educative.io_courses
