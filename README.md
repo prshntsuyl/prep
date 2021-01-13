@@ -43,7 +43,8 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 ## B.1 More to follow
 - [ ] [Design repository](https://github.com/prshntsuyl/system-design-interview)
 - [x] [Tech Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction/)
-- [ ] [Java Guide (Walkthrough atleast once)](https://snailclimb.gitee.io/javaguide/#/) <- Requires: Java Jetbrains
+- [ ] [Java Guide (Walkthrough atleast once)](https://github.com/prshntsuyl/JavaGuide) <- ~~Requires: Java Jetbrains~~
+  - [Gitbook link](https://snailclimb.gitee.io/javaguide/#/)
 - [ ] [DP for interviews book](https://www.dropbox.com/s/oapcdpzprr6ny44/DP-for-Interviews.pdf?dl=0)
 - [ ] Tech Primer
   - [x] Serverless
