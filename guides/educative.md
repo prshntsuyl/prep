@@ -1,13 +1,13 @@
 ## Tracks
 ### 1. Design 
-[Track](https://www.educative.io/track/scalability-system-design-for-developers) for [System design interview](file:///Users/macdrive/CS/Filtered/1.%20Scalability%20&%20System%20Design%20for%20Developers)
+[Track](https://www.educative.io/track/scalability-system-design-for-developers) for [System design interview](file:///Users/macdrive/CS/Filtered/1.%20Scalability%20&%20System%20Design%20for%20Developers) 
 - [ ] [Web App software architecture](https://www.educative.io/courses/web-application-software-architecture-101/qAZ4PlE71YD)
-- [ ] Microservice principles and Concepts
+- [ ] Microservice principles and Concepts 
 - [ ] Microservices architectures
 - [ ] AWS
 - [ ] System design interview
 
-![Design track](./images/designtrack.jpg)
+<img style="float: right;" src="./images/designtrack.jpg">
 
 ### 2. JAVA
 [Java Crash course](https://www.educative.io/track/java-for-programmers)
