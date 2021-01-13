@@ -9,8 +9,6 @@
 
 <img style="float: right;" src="./images/designtrack.jpg">
 
-![Java track](./images/javatrack.jpg)
-
 ### 2. MLE role
 ML-[Track](https://www.educative.io/track/become-ml-engineer) for Machine Learning engineer
 - [ ] ML for software engineers
@@ -31,3 +29,5 @@ ML-[Track](https://www.educative.io/track/become-ml-engineer) for Machine Learni
 - [ ] Java 8
 - [ ] Unit test
 [optional](https://www.educative.io/track/ace-java-coding-interview)
+
+![Java track](./images/javatrack.jpg)
