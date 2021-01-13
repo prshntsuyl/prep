@@ -9,18 +9,9 @@
 
 <img style="float: right;" src="./images/designtrack.jpg">
 
-### 2. JAVA
-[Java Crash course](https://www.educative.io/track/java-for-programmers)
-- [ ] Crash 
-- [ ] Object oriented
-- [ ] Multithreading
-- [ ] Java 8
-- [ ] Unit test
-[optional](https://www.educative.io/track/ace-java-coding-interview)
-
 ![Java track](./images/javatrack.jpg)
 
-### 3. MLE role
+### 2. MLE role
 ML-[Track](https://www.educative.io/track/become-ml-engineer) for Machine Learning engineer
 - [ ] ML for software engineers
 - [ ] Image recognition
@@ -31,3 +22,12 @@ ML-[Track](https://www.educative.io/track/become-ml-engineer) for Machine Learni
 ![MLE track](./images/mltrack.jpg)
 
 #### local folder: /Users/macdrive/CS/educative.io_courses
+
+### 3. JAVA
+[Java Crash course](https://www.educative.io/track/java-for-programmers)
+- [ ] Crash 
+- [ ] Object oriented
+- [ ] Multithreading
+- [ ] Java 8
+- [ ] Unit test
+[optional](https://www.educative.io/track/ace-java-coding-interview)
