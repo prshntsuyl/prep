@@ -71,7 +71,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 ## C.3 Nice to have
 - [ ] Data Science skills
 - [ ] ML skills
-- [ ] [Educative courses](../guides/educative.md)
+- [ ] [Educative courses](./guides/educative.md)
 
 
 
