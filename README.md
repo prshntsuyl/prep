@@ -66,11 +66,12 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 ## C.2 Practice more questions
 - Experienced Practice questions
-- [Full proof guide](./guides/readme.md)
 
 ## C.3 Nice to have
 - [ ] Data Science skills
 - [ ] ML skills
 - [ ] [Educative courses](./guides/educative.md)
 
-## D [University Repo](https://github.com/prshntsuyl/coding-interview-university)
+## D.1 Complete Knowledge
+- [University Repo](https://github.com/prshntsuyl/coding-interview-university)
+- [Full proof guide](./guides/readme.md)
