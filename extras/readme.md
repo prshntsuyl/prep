@@ -59,7 +59,7 @@
 - [x] [Uncommon Characters](../practice/hashing/UncommonCharacters.java)
 
 ### Graphs(DFS|BFS)
-
+- [x] [DFS](../practice/graphq/DfsGraph.java)
 ### DP
 
 ### Recursion and backtracking
