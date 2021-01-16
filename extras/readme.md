@@ -1,4 +1,4 @@
-## Questions Preparation (min 70) | [STAGE-1](track.md) | [Time Track](https://github.com/prshntsuyl/preparation/blob/master/extras/calendar.md)
+## Questions Preparation (min 70) | [STAGE-1](track.md) | [Time Track](https://github.com/prshntsuyl/tracking/2021/jan/study.md)
 ---
 ### Strings
 - [x] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) | [local](../practice/strings/Anagram.java)
