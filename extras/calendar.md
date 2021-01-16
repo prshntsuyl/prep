@@ -1,7 +1,7 @@
 | Date | S1(2Hrs) |	S2(2Hrs) | S3(2Hrs) | S4(2Hrs)
 |---|---|---|---|---|
 | 15. Jan |:white_check_mark:| | | :white_check_mark:|
-| 16. Jan |:black_square_button:|:black_square_button:|:black_square_button:|:black_square_button:|
+| 16. Jan |:x:|:ballot_box_with_check:|:black_square_button:|:black_square_button:|
 | 17. Jan |:black_square_button:|:black_square_button:|:black_square_button:|:black_square_button:|
 | 18. Jan |:black_square_button:| | |:black_square_button:|
 | 19. Jan |:black_square_button:| | |:black_square_button:|
@@ -28,3 +28,5 @@ SLOT -> :black_square_button:
 MISSED -> :x:
 
 SKIP -> :heavy_minus_sign:
+
+WORTH -> :ballot_box_with_check:
