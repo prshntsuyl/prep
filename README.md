@@ -1,5 +1,9 @@
 # Software Engineering Interview Preparation | [Current](https://github.com/prshntsuyl/preparation#b1-more-to-follow)
 
+## TOC
+
+1. [A.1](#A.1 Topics)
+
 See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/) and [this](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/) for more background and tips on preparing for an interview.
 
 Check this flow : 
