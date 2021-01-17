@@ -2,7 +2,15 @@
 
 ## TOC
 
-1. [A.1](#A.1 Topics)
+- [x] [Stage A.1](#a1-topics)
+- [ ] [Stage A.2](#a2-topics)
+- [ ] [Stage B.1](#b1-topics)
+- [ ] [Stage B.2](#b2-topics)
+- [ ] [Stage C.1](#c1-topics)
+- [ ] [Stage C.2](#c2-topics)
+- [ ] [Stage C.3](#c3-topics)
+- [ ] [Stage D.1](#d1-topics)
+
 
 See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/) and [this](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/) for more background and tips on preparing for an interview.
 
