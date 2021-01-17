@@ -1,7 +1,7 @@
 # TOC
 
 - [x] [Stage A.1](#a1-topics)
-- [ ] [Stage A.2](#a2-topics)
+- [x] [Stage A.2](#a2-topics)
 - [ ] [Stage B.1](#b1-topics)
 - [ ] [Stage B.2](#b2-topics)
 - [ ] [Stage C.1](#c1-topics)
