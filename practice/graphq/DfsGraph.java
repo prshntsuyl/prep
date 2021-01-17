@@ -79,6 +79,63 @@ public class DfsGraph {
         for (Integer integer : result) {
             System.out.print(integer + " ");
         }
+
+        // BFS question
+        System.out.println("Lets Try BFS!!!");
+        System.out.println();
+        ArrayList<ArrayList<Integer>> adjj = new ArrayList<ArrayList<Integer>>();
+
+        ArrayList<Integer> zeroAdjj = new ArrayList<Integer>(Arrays.asList(1, 2, 3));
+        ArrayList<Integer> firstAdjj = new ArrayList<Integer>(Arrays.asList(0));
+        ArrayList<Integer> secondAdjj = new ArrayList<Integer>(Arrays.asList(0, 4));
+        ArrayList<Integer> thirdAdjj = new ArrayList<Integer>(Arrays.asList(0));
+        ArrayList<Integer> fourthAdjj = new ArrayList<Integer>(Arrays.asList(2));
+
+        adjj.add(zeroAdjj);
+        adjj.add(firstAdjj);
+        adjj.add(secondAdjj);
+        adjj.add(thirdAdjj);
+        adjj.add(fourthAdjj);
+
+        ArrayList<Integer> resrlt = bfsOfGraph(0, adjj);
+
+        for (Integer integer : resrlt) {
+            System.out.print(integer + " ");
+        }
+    }
+
+    static ArrayList<Integer> bfsOfGraph(int V, ArrayList<ArrayList<Integer>> adj) {
+        // Code here
+        ArrayList<Integer> result = new ArrayList<Integer>();
+
+        boolean[] visited = new boolean[adj.size()];
+        ArrayList<Integer> queue = new ArrayList<>();
+
+        bfsRecursive(0, adj, visited, queue, result);
+
+        return result;
+
+    }
+
+    static void bfsRecursive(int current, ArrayList<ArrayList<Integer>> adj, boolean[] visited,
+            ArrayList<Integer> queueList, ArrayList<Integer> result) {
+
+        visited[current] = true;
+        queueList.add(current);
+
+        while (queueList.size() != 0) {
+            current = queueList.remove(0);
+            visit(current, result);
+
+            ArrayList<Integer> currentList = adj.get(current);
+            for (Integer integer : currentList) {
+                if (!visited[integer]) {
+                    visited[integer] = true;
+                    queueList.add(integer);
+                }
+
+            }
+        }
     }
 
     static ArrayList<Integer> dfsOfGraph(int V, ArrayList<ArrayList<Integer>> adj) {
