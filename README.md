@@ -2,12 +2,12 @@
 
 - [x] [Stage A.1](#a1-topics)
 - [x] [Stage A.2](#a2-topics)
-- [ ] [Stage B.1](#b1-topics)
-- [ ] [Stage B.2](#b2-topics)
-- [ ] [Stage C.1](#c1-topics)
-- [ ] [Stage C.2](#c2-topics)
-- [ ] [Stage C.3](#c3-topics)
-- [ ] [Stage D.1](#d1-topics)
+- [ ] [Stage B.1](#b1-more-to-follow)
+- [ ] [Stage B.2](#b2-practice-questions)
+- [ ] [Stage C.1](#c1-last-stage)
+- [ ] [Stage C.2](#c2-practice-more-questions)
+- [ ] [Stage C.3](#c3-nice-to-have)
+- [ ] [Stage D.1](#d1-complete-knowledge)
 
 # Software Engineering Interview Preparation | [Current](https://github.com/prshntsuyl/preparation#b1-more-to-follow)
 
