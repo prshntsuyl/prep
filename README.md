@@ -1,3 +1,14 @@
+# TOC
+
+- [x] [Stage A.1](#a1-topics)
+- [x] [Stage A.2](#a2-topics)
+- [ ] [Stage B.1](#b1-more-to-follow)
+- [ ] [Stage B.2](#b2-practice-questions)
+- [ ] [Stage C.1](#c1-last-stage)
+- [ ] [Stage C.2](#c2-practice-more-questions)
+- [ ] [Stage C.3](#c3-nice-to-have)
+- [ ] [Stage D.1](#d1-complete-knowledge)
+
 # Software Engineering Interview Preparation | [Current](https://github.com/prshntsuyl/preparation#b1-more-to-follow)
 
 See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/) and [this](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/) for more background and tips on preparing for an interview.
