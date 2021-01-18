@@ -1,3 +1,10 @@
+Note: Do 3 in two days (2,1 strategy)
+
+### Key pointers specific to leetcode: 
+1. Pick a topic and solve problems with that. Do not move to a different topic before finishing it. 
+2. Solve Easy, Medium & Hard problems in 3:6:1 ratio (3:5:2 is also recommended). 
+3. Solve Easy problems by sorting them on two factors: Frequency
+
 | Day | Todo | Completed
 --- | --- | ---
 24 Dec | 4/6 | 4/6
