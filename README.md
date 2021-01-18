@@ -8,6 +8,7 @@
 - [ ] [Stage C.2](#c2-practice-more-questions)
 - [ ] [Stage C.3](#c3-nice-to-have)
 - [ ] [Stage D.1](#d1-complete-knowledge)
+- [ ] [Stage D.2](#d2-books-to-read)
 
 # Software Engineering Interview Preparation | [Current](https://github.com/prshntsuyl/preparation#b1-more-to-follow)
 
@@ -86,3 +87,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 ## D.1 Complete Knowledge
 - [University Repo](https://github.com/prshntsuyl/coding-interview-university)
 - [Full proof guide](./guides/readme.md)
+
+## D.2 Books to read
+- Clean Architecture by Robert Martin
+- Building Microservices by Sam Newman
