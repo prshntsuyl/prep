@@ -83,6 +83,8 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - [ ] Data Science skills
 - [ ] ML skills
 - [ ] [Educative courses](./guides/educative.md)
+  - [ ] Track-1 : Must
+  - [ ] Track-2 : Nice to have
 
 ## D.1 Complete Knowledge
 - [University Repo](https://github.com/prshntsuyl/coding-interview-university)
