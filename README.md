@@ -73,6 +73,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 ## C.1 Last Stage
 - [ ] [System Design Primer](https://github.com/prshntsuyl/design-primer)
   - [ ] [Youtube Playlist](https://youtu.be/UzLMhqg3_Wc?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2&t=442): ~~1,2,3,4,5~~, Review
+  - [ ] [Design Playlist](https://www.youtube.com/watch?v=dUMWMZmMsVE&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=1) : Play along with books
 - [ ] Manage Microservices book walkthrough
 - [ ] Spring boot book walkthrough
 
