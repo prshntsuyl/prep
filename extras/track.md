@@ -1,4 +1,12 @@
-Note: Do 3 in two days (2,1 strategy)
+### Tracking Strategy
+DONE: 39/205: You are ready now 
+
+Note: Strategy is 1,2,1,2,1,3,2: 12/week
+
+* Done till jan 17 jan = 37
+* 8-weeks before vacation: 8*12 = 96
+* 3-weeks home vacation: 3*12 = 36
+* 3-weeks after return: 3*12 = 36 
 
 ### Key pointers specific to leetcode: 
 1. Pick a topic and solve problems with that. Do not move to a different topic before finishing it. 
