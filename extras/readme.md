@@ -10,7 +10,7 @@
 - [Tree](#tree)
 - [Linked List](#linked-list)
 - [Hashing](#hashing)
-- [Graphs](#graphs)
+- [Graphs](#graphsdfsbfs)
 ---
 
 ### Strings
