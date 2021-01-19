@@ -1,5 +1,18 @@
 ## Questions Preparation (min 70) | [STAGE-1](track.md) | [Time Track](https://github.com/prshntsuyl/tracking/blob/main/2021/jan/study.md)
 ---
+## TOC
+
+- [Strings](#strings)
+- [Arrays](#arrays)
+- [Stacks](#stacks)
+- [Queue](#queue)
+- [Recursion](#recursion)
+- [Tree](#tree)
+- [Linked List](#linked-list)
+- [Hashing](#hashing)
+- [Graphs](#graphs)
+---
+
 ### Strings
 - [x] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) | [local](../practice/strings/Anagram.java)
 - [x] [Longest Distinct Character](../practice/strings/)
