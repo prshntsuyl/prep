@@ -74,6 +74,7 @@
 ### Graphs(DFS|BFS)
 - [x] [DFS](../practice/graphq/DfsGraph.java)
 - [x] [BFS](../practice/graphq/DfsGraph.java)
+- [x] [Detect Cycle](../practice/graphq/DetectCycle.java)
 ### DP
 
 ### Recursion and backtracking
@@ -81,6 +82,7 @@
 ### Divide and Conquer
 
 ### Advance Data Strucuture
+- [x] [Party Couple](../practice/bitset/PartyCouple.java)
 
 ---
 ## Try More one here | STAGE-2
