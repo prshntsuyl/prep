@@ -106,6 +106,8 @@ Key pointers specific to leetcode:
   <summary>Clean Architecture by Robert Martin</summary>
 
   - [ ] Introduction
+    - [ ] Chapter 1
+    - [x] Chapter 2
   - [ ] Programming Paradigms
   - [ ] Design Principles
   - [ ] Component Principles
