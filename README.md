@@ -99,3 +99,7 @@ Key pointers specific to leetcode:
 ## D.2 Books to read
 - Clean Architecture by Robert Martin
 - Building Microservices by Sam Newman
+- Programming Interview Exposed
+- Grokking Algorithms
+- CTCI
+- Concurrent Programming
