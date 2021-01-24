@@ -102,7 +102,18 @@ Key pointers specific to leetcode:
 - [Full proof guide](./guides/readme.md)
 
 ## D.2 Books to read
-- Clean Architecture by Robert Martin
+<details>
+  <summary>Clean Architecture by Robert Martin</summary>
+
+  - [ ] Introduction
+  - [ ] Programming Paradigms
+  - [ ] Design Principles
+  - [ ] Component Principles
+  - [ ] Architecture
+  - [ ] Details
+
+</details>
+
 - Building Microservices by Sam Newman
 - Programming Interview Exposed
 - Grokking Algorithms
