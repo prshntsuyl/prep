@@ -23,6 +23,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 ## A.1 Topics
 <details>
   <summary>Crash Course!</summary>
+  
 - [x] [Complexity](topics/complexity.md)
 - [x] [Data Structures](topics/data-structures.md)
 - [ ] [~~Data Structures Examples~~](topics/data-structures-examples.md)
