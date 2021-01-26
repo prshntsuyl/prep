@@ -80,5 +80,7 @@ class LargestSubarray {
 
     int end = ending_index - (max_len - 1);
     System.out.println(end + " to " + ending_index);
+
+    return end;
   }
 }

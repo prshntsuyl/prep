@@ -45,10 +45,11 @@ class QueueWithStacks {
     }
   }
 
+
   // if question was create stack from two queue
   class StackFromTwoQueue {
-    StackQueue<Integer> s1 = new StackQueue<Integer>();
-    StackQueue<Integer> s2 = new StackQueue<Integer>();
+//    StackQueue<Integer> s1 = new StackQueue<Integer>();
+//    StackQueue<Integer> s2 = new StackQueue<Integer>();
 
     /*
      * The method insert to push element into the queue
@@ -62,6 +63,8 @@ class QueueWithStacks {
      */
     int Pop() {
       // until q1 is empty push in q2 and dont push last element and return it
+        return 0;
     }
   }
+
 }
