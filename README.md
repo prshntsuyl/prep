@@ -70,7 +70,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 
 ## B.2 Practice questions
-- [Here (41/72)](extras/readme.md)
+- [Here (42/72)](extras/readme.md)
 - Review 50 Question 
 - [Fucking algorithm](https://github.com/prshntsuyl/fucking-algorithm/tree/english)
 - [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
