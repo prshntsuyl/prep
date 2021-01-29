@@ -92,6 +92,7 @@ Key pointers specific to leetcode:
   - [ ] [Youtube Playlist](https://youtu.be/UzLMhqg3_Wc?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2&t=442): ~~1,2,3,4,5~~, Review
   - [ ] [Short Playlist](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   - [ ] [Design Playlist](https://www.youtube.com/watch?v=dUMWMZmMsVE&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=1) : Play along with books
+  - [ ] [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists)
 
 - [ ] Manage Microservices book walkthrough
 - [ ] Spring boot book walkthrough
@@ -130,3 +131,6 @@ Key pointers specific to leetcode:
 - Grokking Algorithms
 - CTCI
 - Concurrent Programming
+
+
+**REMEBER: Completing this is enough and now dont do any further research for content**
