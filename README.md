@@ -70,9 +70,11 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 
 ## B.2 Practice questions
-- [Here (42/72)](extras/readme.md)
+- [Here (42/72)](extras/readme.md) | **Finish by Friday Feb 6 as per plan**
 - Review 50 Question 
+- One daily question afterwards | Design focus | generic questions | review
 - [Fucking algorithm](https://github.com/prshntsuyl/fucking-algorithm/tree/english)
+- [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Microsoft&page=1&company%5B%5D=Microsoft)
 - [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
 
 Key pointers specific to leetcode:
