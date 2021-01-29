@@ -76,6 +76,7 @@
 - [x] [BFS](../practice/graphq/DfsGraph.java)
 - [x] [Detect Cycle](../practice/graphq/DetectCycle.java)
 ### DP
+- [x] [Knapsack](../practice/dynamic/Knapsack.java)
 
 ### Recursion and backtracking
 
