@@ -45,6 +45,9 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 </details>
 
 ## A.2 Topics
+<details>
+  <summary>Jet Brains!</summary>
+
 [Hyperskills jetbrains](https://hyperskill.org/curriculum)
   - [x] `java: 20/22`
     - [ ] design patterns
@@ -55,6 +58,8 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
   - [x] devtools
   - [x] databases
   - [ ] maths
+  
+</details>
 
 
 ## B.1 More to follow
