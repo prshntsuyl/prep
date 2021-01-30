@@ -136,6 +136,13 @@ Key pointers specific to leetcode:
 <details>
   <summary>Building Microservices by Sam Newman</summary>
 
+- [ ] Chapter 1: Microservices
+- [ ] Chapter 2: Evolution Architecture
+- [ ] Chapter 3: How to model services
+- [ ] Chapter 4: Integration
+- [ ] Chapter 12
+- [ ] Chapter 13
+
 </details>
 
 <details>
