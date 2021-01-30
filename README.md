@@ -133,11 +133,29 @@ Key pointers specific to leetcode:
 
 </details>
 
-- Building Microservices by Sam Newman
-- Programming Interview Exposed
-- Grokking Algorithms
-- CTCI
-- Concurrent Programming
+<details>
+  <summary>Building Microservices by Sam Newman</summary>
 
+</details>
+
+<details>
+  <summary>Programming Interview Exposed</summary>
+
+</details>
+
+<details>
+  <summary>Grokking Algorithms</summary>
+
+</details>
+
+<details>
+  <summary>CTCI</summary>
+
+</details>
+
+<details>
+  <summary>Concurrent Programming</summary>
+
+</details>
 
 **REMEBER: Completing this is enough and after this you dont need any further contenet**
