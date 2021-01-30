@@ -80,7 +80,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 - One daily question afterwards | Design focus | generic questions | review
 - [Fucking algorithm](https://github.com/prshntsuyl/fucking-algorithm/tree/english)
 - [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Microsoft&page=1&company%5B%5D=Microsoft)
-- [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
+- [CodeMonk](https://www.hackerearth.com/practice/codemonk/) | [More practice](https://www.hackerearth.com/practice/)
 
 Key pointers specific to leetcode:
     1. Pick a topic and solve problems with that. Do not move to a different topic before finishing it.
