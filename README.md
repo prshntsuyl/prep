@@ -122,7 +122,7 @@ Key pointers specific to leetcode:
     - [x] Chapter 4
     - [x] Chapter 12
     - [x] Chapter 13
-    - [] Chapter 14
+    - [ ] Chapter 14
     - [x] Chapter 15
     - [ ] Chapter 15
   - [ ] Programming Paradigms
