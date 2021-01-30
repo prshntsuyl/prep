@@ -133,4 +133,4 @@ Key pointers specific to leetcode:
 - Concurrent Programming
 
 
-**REMEBER: Completing this is enough and now dont do any further research for content**
+**REMEBER: Completing this is enough and after this you dont need any further contenet**
