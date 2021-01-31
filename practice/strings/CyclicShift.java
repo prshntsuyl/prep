@@ -9,17 +9,17 @@ public class CyclicShift {
     private static int[] maxArray;
     private static int[] valArray;
 
-//  1
+    //  1
 //  5 2
 //  10101
-public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    String numOfCases = scanner.nextLine();
-    int numberOfCases = Integer.parseInt(numOfCases);
-    for (int i = 0; i < numberOfCases; i++)
-        perform(scanner);
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String numOfCases = scanner.nextLine();
+        int numberOfCases = Integer.parseInt(numOfCases);
+        for (int i = 0; i < numberOfCases; i++)
+            perform(scanner);
 
-}
+    }
 
     private static void perform(Scanner scanner) {
         String[] s = scanner.nextLine().split(" ");
