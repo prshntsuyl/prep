@@ -14,7 +14,7 @@
 - [Linked List](#linked-list)
 - [Stacks](#stacks)
 - [Queue](#queue)
-- Dynamic Programming
+- [Dynamic Programming](#DP)
 - [Recursion](#recursion)
   - Backtracking
 - [Tree](#tree)
