@@ -9,17 +9,23 @@
 - Primitives
 
 ![First Half](./ds/first.png)
+- Primitives
+  - Bitwise
 - [Arrays](#arrays)
 - [Strings](#strings)
 - [Linked List](#linked-list)
 - [Stacks](#stacks)
 - [Queue](#queue)
+- Dynamic Programming
 - [Recursion](#recursion)
   - Backtracking
 - [Tree](#tree)
   - DFS
   - BFS
   - Heaps
+- BST
+  - Searching
+- Sorting
 - [Hashing](#hashing)
   - Hash Tables
 - [Graphs](#graphsdfsbfs)
