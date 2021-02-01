@@ -75,7 +75,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 
 ## B.2 Practice questions
-- [Here (42/72)](extras/readme.md) | **Finish by Friday Feb 6 as per plan**
+- [Here (46/72)](extras/readme.md) | **Finish by Friday Feb 6 as per plan**
 - Review 50 Question 
 - One daily question afterwards | Design focus | generic questions | review
 - [Fucking algorithm](https://github.com/prshntsuyl/fucking-algorithm/tree/english)
