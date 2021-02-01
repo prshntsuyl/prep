@@ -1,5 +1,5 @@
 ### Tracking Strategy
-DONE: 39/205: You are ready now 
+DONE: 46/205: You are ready now 
 
 Note: Strategy is 1,2,1,2,1,3,2: 12/week
 
@@ -48,3 +48,4 @@ Note: Strategy is 1,2,1,2,1,3,2: 12/week
 24 Jan | 0/2 | 39/72
 **W3** | 0 | 39->41 
 28 Jan | 1 | 42/72
+01 Feb | 1 | 46/72
