@@ -2,15 +2,34 @@
 ---
 ## TOC
 
-- [Strings](#strings)
+<details>
+  <summary>Topics to cover</summary>
+
+- Big O
+- Primitives
+
+![First Half](./ds/first.png)
 - [Arrays](#arrays)
+- [Strings](#strings)
+- [Linked List](#linked-list)
 - [Stacks](#stacks)
 - [Queue](#queue)
 - [Recursion](#recursion)
+  - Backtracking
 - [Tree](#tree)
-- [Linked List](#linked-list)
+  - DFS
+  - BFS
+  - Heaps
 - [Hashing](#hashing)
+  - Hash Tables
 - [Graphs](#graphsdfsbfs)
+- Greedy
+  
+![Second Half](./ds/second.png)
+
+![topic](topic.png)
+</details>
+    
 ---
 
 ### Strings
