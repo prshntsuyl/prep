@@ -5,12 +5,10 @@
 <details>
   <summary>Topics to cover</summary>
 
-- Big O
-- Primitives
-
 ![First Half](./ds/first.png)
 - Primitives
   - Bitwise
+  - Big O  
 - [Arrays](#arrays)
 - [Strings](#strings)
 - [Linked List](#linked-list)
