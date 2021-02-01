@@ -61,8 +61,9 @@ public class NQueens {
                     continue;
                 }
 
-                //not attack therefore setting it
+                //not in attack therefore setting it
                 matrix[i][j] = 1;
+                //checking after placing for subproblems to set other queens
                 if (nQueens(matrix, n - 1)) {
                     return true;
                 }
