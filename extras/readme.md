@@ -27,7 +27,6 @@
   
 ![Second Half](./ds/second.png)
 
-![topic](topic.png)
 </details>
     
 ---
