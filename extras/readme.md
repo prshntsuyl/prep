@@ -35,11 +35,16 @@
     
 ---
 
+### Primitive
+- [x] [45 | Count set bits](../practice/basics/SetBitCount.java)
+	
 ### Strings
 - [x] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) | [local](../practice/strings/Anagram.java)
 - [x] [Longest Distinct Character](../practice/strings/)
 - [x] [Remove Duplicates](../practice/strings/)
 - [x] [Reverse Separated Words](../practice/strings/)
+- [x] [44 | Cyclic Shifts](../practice/strings/CyclicShift.java)
+- [x] [43 | Monk And Rotation](../practice/strings/MonkAndRotation.java)
 
 ### Arrays
 - [x] [Missing Number](../practice/array/)
@@ -97,8 +102,10 @@
 - [x] [DFS](../practice/graphq/DfsGraph.java)
 - [x] [BFS](../practice/graphq/DfsGraph.java)
 - [x] [Detect Cycle](../practice/graphq/DetectCycle.java)
+
 ### DP
-- [x] [Knapsack](../practice/dynamic/Knapsack.java)
+- [x] [42 | Knapsack](../practice/dynamic/Knapsack.java)
+- [x] [46 | NQueens](../practice/dynamic/backtracking/NQueens.java)
 
 ### Recursion and backtracking
 
