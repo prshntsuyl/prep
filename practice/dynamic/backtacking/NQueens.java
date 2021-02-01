@@ -63,10 +63,11 @@ public class NQueens {
 
                 //not in attack therefore setting it
                 matrix[i][j] = 1;
-                //checking after placing for subproblems to set other queens
+                //checking after placing queen, now n-1 queens to be set if not possible we backtrack
                 if (nQueens(matrix, n - 1)) {
                     return true;
                 }
+                //reset and then we move to other element
                 matrix[i][j] = 0;
             }
         }
