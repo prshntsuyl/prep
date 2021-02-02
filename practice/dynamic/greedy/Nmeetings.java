@@ -22,6 +22,7 @@ class Nmeetings {
         System.out.println(maxMeetings(S1, F1, N1));
     }
 
+    //because sorting is needed
     public static class Node implements Comparable<Node> {
 
         public int startInd;
