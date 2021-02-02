@@ -125,6 +125,10 @@ Key pointers specific to leetcode:
     - [ ] Chapter 14
     - [x] Chapter 15
     - [ ] Chapter 15
+  - [ ] Details
+    - [x] Chapter 30
+    - [x] Chapter 31
+    - [ ] Chapter 34
   - [ ] Programming Paradigms
   - [ ] Design Principles
   - [ ] Component Principles
@@ -167,6 +171,13 @@ Key pointers specific to leetcode:
 
 <details>
   <summary>Elements of Programming in Java</summary>
+
+- [ ] Chapter 1
+- [ ] Chapter 2
+- [ ] Chapter 3
+- [ ] Chapter 4
+- [ ] Part III: Domain Specific
+  - [x] Chapter 24: Common Tools
 
 </details>
 
