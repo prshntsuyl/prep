@@ -106,6 +106,7 @@
 ### DP
 - [x] [42 | Knapsack](../practice/dynamic/Knapsack.java)
 - [x] [46 | NQueens](../practice/dynamic/backtracking/NQueens.java)
+- [x] [47 | Nmeeting](../practice/dynamic/greedy/Nmeetings.java)
 
 ### Recursion and backtracking
 
