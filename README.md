@@ -128,7 +128,9 @@ Key pointers specific to leetcode:
   - [ ] Details
     - [x] Chapter 30
     - [x] Chapter 31
-    - [ ] Chapter 34
+    - [x] Chapter 32
+    - [x] Chapter 33
+    - [x] Chapter 34
   - [ ] Programming Paradigms
   - [ ] Design Principles
   - [ ] Component Principles
