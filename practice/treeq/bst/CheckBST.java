@@ -32,7 +32,7 @@ class CheckBST {
             return false;
         }
 
-        //* remember this condition
+        //* remember this condition, manually decided the min max values on tree's logic
         return isBSTUtil(root.left, min, root.data-1) && isBSTUtil(root.right, root.data+1, max);
     }
 
