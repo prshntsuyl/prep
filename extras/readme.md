@@ -34,9 +34,22 @@
 </details>
     
 ---
+### Graphs(DFS|BFS)
+- [x] [DFS](../practice/graphq/DfsGraph.java)
+- [x] [BFS](../practice/graphq/DfsGraph.java)
+- [x] [Detect Cycle](../practice/graphq/DetectCycle.java)
 
-### Primitive
-- [x] [45 | Count set bits](../practice/basics/SetBitCount.java)
+
+### Trees(BT|BST|Heap)
+- [x] [Find height](../practice/treeq/FindHeight.java) 
+- [x] [Find LCA](../practice/treeq/FindLCA.java) 
+- [x] [Identical Tree](../practice/treeq/IdenticalTree.java) 
+- [x] [Diameter](../practice/treeq/Diameter.java) 
+- [x] [Heap Sort/Heapify](https://www.geeksforgeeks.org/heap-sort/) 
+- [ ] [Left View](https://www.geeksforgeeks.org/treeq/LeftView.java) 
+- [x] [Count Leaves](https://www.geeksforgeeks.org/treeq/CountLeaves.java) 
+- [x] [Mirror tree](https://www.geeksforgeeks.org/treeq/MirrorTree.java) 
+
 	
 ### Strings
 - [x] [Anagram](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) | [local](../practice/strings/Anagram.java)
@@ -46,12 +59,33 @@
 - [x] [44 | Cyclic Shifts](../practice/strings/CyclicShift.java)
 - [x] [43 | Monk And Rotation](../practice/strings/MonkAndRotation.java)
 
+
 ### Arrays
 - [x] [Missing Number](../practice/array/)
 - [x] [Majority Element/Moore Voting](../practice/array/MajorityElement.java)
 - [X] [Largest Subarray](../practice/array/LargestSubarray.java)
 - [X] [Sort 0s 1s 2s](../practice/array/Sort012s.java)
 - [X] [StockBuySell](../practice/array/StockBuySell.java)
+
+
+### DP
+- [x] [42 | Knapsack](../practice/dynamic/Knapsack.java)
+- [x] [46 | NQueens](../practice/dynamic/backtracking/NQueens.java)
+- [x] [47 | Nmeeting](../practice/dynamic/greedy/Nmeetings.java)
+
+### Recursion
+- [X] [Number of Paths](../practice/recursion/NumOfPaths.java)
+- [X] [Josephus](../practice/recursion/Josephus.java)
+- [ ] [`CombinationSum`](https://www.geeksforgeeks.org/combinational-sum/#:~:text=Given%20an%20array%20of%20positive)
+- [ ] [~~Keyboard Max A's~~](https://www.geeksforgeeks.org/how-to-print-maximum-number-of-a-using-given-four-keys/)
+- [X] [Flood Fill google](../practice/recursion/floodfill.java)
+
+### Recursion and backtracking
+
+### Divide and Conquer
+
+### Primitive
+- [x] [45 | Count set bits](../practice/basics/SetBitCount.java)
 
 ### Stacks
 - [X] [Parenthesis](../practice/stacks/Parenthesis.java)
@@ -65,23 +99,6 @@
 - [X] [LRU Cache](https://www.geeksforgeeks.org/design-a-data-structure-for-lru-cache/)
  - Using Doubly LinkList: Provides constant time persistence and HashMap: Provides constant time Lookup
  - removes node completely then add to head to consistently update the LRU linked list.
-
-### Recursion
-- [X] [Number of Paths](../practice/recursion/NumOfPaths.java)
-- [X] [Josephus](../practice/recursion/Josephus.java)
-- [ ] [`CombinationSum`](https://www.geeksforgeeks.org/combinational-sum/#:~:text=Given%20an%20array%20of%20positive)
-- [ ] [~~Keyboard Max A's~~](https://www.geeksforgeeks.org/how-to-print-maximum-number-of-a-using-given-four-keys/)
-- [X] [Flood Fill google](../practice/recursion/floodfill.java)
-
-### Trees(BT|BST|Heap)
-- [x] [Find height](../practice/treeq/FindHeight.java) 
-- [x] [Find LCA](../practice/treeq/FindLCA.java) 
-- [x] [Identical Tree](../practice/treeq/IdenticalTree.java) 
-- [x] [Diameter](../practice/treeq/Diameter.java) 
-- [x] [Heap Sort/Heapify](https://www.geeksforgeeks.org/heap-sort/) 
-- [ ] [Left View](https://www.geeksforgeeks.org/treeq/LeftView.java) 
-- [x] [Count Leaves](https://www.geeksforgeeks.org/treeq/CountLeaves.java) 
-- [x] [Mirror tree](https://www.geeksforgeeks.org/treeq/MirrorTree.java) 
 
 ### Linked List
 - [x] [Middle Element](../practice/linklist/MiddleElement.java)
@@ -97,20 +114,6 @@
  - using bitwise OR
 - [x] [Zero Sum](../practice/hashing/ZeroSum.java)
 - [x] [Uncommon Characters](../practice/hashing/UncommonCharacters.java)
-
-### Graphs(DFS|BFS)
-- [x] [DFS](../practice/graphq/DfsGraph.java)
-- [x] [BFS](../practice/graphq/DfsGraph.java)
-- [x] [Detect Cycle](../practice/graphq/DetectCycle.java)
-
-### DP
-- [x] [42 | Knapsack](../practice/dynamic/Knapsack.java)
-- [x] [46 | NQueens](../practice/dynamic/backtracking/NQueens.java)
-- [x] [47 | Nmeeting](../practice/dynamic/greedy/Nmeetings.java)
-
-### Recursion and backtracking
-
-### Divide and Conquer
 
 ### Advance Data Strucuture
 - [x] [Party Couple](../practice/bitset/PartyCouple.java)
