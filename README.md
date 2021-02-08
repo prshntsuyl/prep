@@ -38,12 +38,11 @@ See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-
     - [Part I](https://github.com/jiadaizhao/Algorithms-Part-I)
     - [Part II](https://github.com/jiadaizhao/Algorithms-Part-II)
 - Discrete Mathematics [Coursera](https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science-Specialization)
-- Educative courses | [courses](file:///Users/macdrive/CS/educative.io_courses)
-    - [Scalability](file:///Users/macdrive/CS/Filtered/)
+- Educative courses | Courses
+    - Scalability
         - Web application
         - Microservice/Mircroservices Architecture
-        - Grokking system [design](file:///Users/macdrive/CS/Filtered/1. Scalability & System Design for Developers/4. Grok_system_design_interview.pdf)
-    - [BigO](file:///Users/macdrive/CS/Filtered/)
+        - Grokking system design
 - Book List
     - Design book
         - Kafka
