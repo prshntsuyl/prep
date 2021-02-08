@@ -58,7 +58,7 @@ See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-
     - [Interview Bit](https://www.interviewbit.com/courses/programming/) file
     - Fucking Algorithm
     - HackerEarth [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
-    
+
 ————————————————————————————————————
 
 
@@ -201,16 +201,6 @@ Key pointers specific to leetcode:
 </details>
 
 <details>
-  <summary>Programming Interview Exposed</summary>
-
-</details>
-
-<details>
-  <summary>Grokking Algorithms</summary>
-
-</details>
-
-<details>
   <summary>CTCI</summary>
 
 </details>
@@ -219,6 +209,16 @@ Key pointers specific to leetcode:
   <summary>Concurrent Programming</summary>
 
 </details>
+
+- Fundamentals of Software Architecture: Mark Richards & Neal Ford
+- Distributed systems
+- Kafka an Internal Guide
+- IT Architect
+- Designing data intensive applications
+- Big data
+- Design and Analysis
+
+## D.2 Guides to read
 
 <details>
   <summary>Elements of Programming in Java</summary>
@@ -232,6 +232,22 @@ Key pointers specific to leetcode:
 
 </details>
 
+<details>
+  <summary>Programming Interview Exposed</summary>
+
+</details>
+
+
+<details>
+  <summary>Grokking Algorithms</summary>
+
+<details>
+
+- Guide to competitive programming
+- CTCI
+- Grokking Algorithms
+-
+
 ## E Courses
 <details>
   <summary>Courses to cover</summary>
@@ -244,7 +260,7 @@ Key pointers specific to leetcode:
   - [ ] Week 4
   - [ ] Week 5
   - [ ] Week 6
-  
+
 **Algorithms Coursera | Part II**
   - [ ] Week 1
   - [ ] Week 2
@@ -252,14 +268,14 @@ Key pointers specific to leetcode:
   - [ ] Week 4
   - [ ] Week 5
   - [ ] Week 6
-  
+
 **Discrete Mathematics | Link**
   - [ ] Mathematical Thinking in Conputer Science
   - [ ] Combinatrorics and Probability
   - [ ] Introduction to Graph Theory
   - [ ] Number theory and Cryptography
   - [ ] Delivery Problem
-  
+
 **Software Design And Architecture | Link**
   - [ ] OOPs
   - [ ] Design Patterns
