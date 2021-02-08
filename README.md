@@ -236,32 +236,38 @@ Key pointers specific to leetcode:
 <details>
   <summary>Courses to cover</summary>
 
-1.1 Algorithms Coursera | Part I
-    - [ ] Week 1
-    - [ ] Week 2
-    - [ ] Week 3
-    - [ ] Week 4
-    - [ ] Week 5
-    - [ ] Week 6
-1.2 Algorithms Coursera | Part II
-    - [ ] Week 1
-    - [ ] Week 2
-    - [ ] Week 3
-    - [ ] Week 4
-    - [ ] Week 5
-    - [ ] Week 6
-2 Discrete Mathematics | Link
-    - [ ] Mathematical Thinking in Conputer Science
-    - [ ] Combinatrorics and Probability
-    - [ ] Introduction to Graph Theory
-    - [ ] Number theory and Cryptography
-    - [ ] Delivery Problem
-3 Software Design And Architecture | Link
-    - [ ] OOPs
-    - [ ] Design Patterns
-    - [ ] Software Architectures
-    - [ ] SOAs
+
+**Algorithms Coursera | Part I**
+  - [ ] Week 1
+  - [ ] Week 2
+  - [ ] Week 3
+  - [ ] Week 4
+  - [ ] Week 5
+  - [ ] Week 6
+  
+**Algorithms Coursera | Part II**
+  - [ ] Week 1
+  - [ ] Week 2
+  - [ ] Week 3
+  - [ ] Week 4
+  - [ ] Week 5
+  - [ ] Week 6
+  
+**Discrete Mathematics | Link**
+  - [ ] Mathematical Thinking in Conputer Science
+  - [ ] Combinatrorics and Probability
+  - [ ] Introduction to Graph Theory
+  - [ ] Number theory and Cryptography
+  - [ ] Delivery Problem
+  
+**Software Design And Architecture | Link**
+  - [ ] OOPs
+  - [ ] Design Patterns
+  - [ ] Software Architectures
+  - [ ] SOAs
+
 
 </details>
 
--REMEBER: Completing this is enough and after this you dont need any further contenet-
+
+*REMEBER*: Completing this is enough and after this you dont need any further contenet-
