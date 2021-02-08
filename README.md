@@ -15,10 +15,11 @@
 See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/) and [this](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/) for more background and tips on preparing for an interview.
 
 <details>
-  <summary>Blueprint</summary>
-————————————————————————————————————
+  <summary>Blueprint to cover</summary>
+
           “Recall is the key”
-————————————————————————————————————
+
+
 - DSA/Algos
     - Discrete mathematics
     - Algorithms
@@ -29,20 +30,20 @@ See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-
 - Practics Questions
     - Complete 200 questions
     - Do experienced questions
-————————————————————————————————————
-** Sub-TOC
-————————————————————————————————————
+
+**Sub-TOC**
+
 
 - Algorithms Coursera
     - [Part I](https://github.com/jiadaizhao/Algorithms-Part-I)
     - [Part II](https://github.com/jiadaizhao/Algorithms-Part-II)
-- Discrete Mathematics Coursera
-- Educative courses | courses
-    - Scalability:
+- Discrete Mathematics [Coursera](https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science-Specialization)
+- Educative courses | [courses](file:///Users/macdrive/CS/educative.io_courses)
+    - [Scalability](file:///Users/macdrive/CS/Filtered/)
         - Web application
         - Microservice/Mircroservices Architecture
-        - Grokking design
-    - BigO
+        - Grokking system [design](file:///Users/macdrive/CS/Filtered/1. Scalability & System Design for Developers/4. Grok_system_design_interview.pdf)
+    - [BigO](file:///Users/macdrive/CS/Filtered/)
 - Book List
     - Design book
         - Kafka
@@ -51,14 +52,16 @@ See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-
         - Elements
         - …
 - Programming and DSA
-    - GFG
-        - DSA / Algorithms
+    - [GFG](https://www.geeksforgeeks.org/)
+        - [DSA](https://www.geeksforgeeks.org/data-structures/?ref=shm) / Algorithms(https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
         - Must do questions / Topic wise / Product Based
         - Java
-    - Interview Bit: file
+    - [Interview Bit](https://www.interviewbit.com/courses/programming/) file
     - Fucking Algorithm
-    - HackerEarth CodeMonk
+    - HackerEarth [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
+    
 ————————————————————————————————————
+
 
 </details>
 
