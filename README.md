@@ -14,7 +14,57 @@
 
 See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/) and [this](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/) for more background and tips on preparing for an interview.
 
-Check this flow : 
+<details>
+  <summary>Blueprint to cover</summary>
+
+          “Recall is the key”
+
+
+- DSA/Algos
+    - Discrete mathematics
+    - Algorithms
+    - Basics
+- Design
+    - Primer
+    - Grokking
+- Practics Questions
+    - Complete 200 questions
+    - Do experienced questions
+
+**Sub-TOC**
+
+
+- Algorithms Coursera
+    - [Part I](https://github.com/jiadaizhao/Algorithms-Part-I)
+    - [Part II](https://github.com/jiadaizhao/Algorithms-Part-II)
+- Discrete Mathematics [Coursera](https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science-Specialization)
+- Educative courses | Courses
+    - Scalability
+        - Web application
+        - Microservice/Mircroservices Architecture
+        - Grokking system design
+- Book List
+    - Design book
+        - Kafka
+        - …
+    - Guides
+        - Elements
+        - …
+- Programming and DSA
+    - [GFG](https://www.geeksforgeeks.org/)
+        - [DSA](https://www.geeksforgeeks.org/data-structures/?ref=shm) / [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
+        - Must do questions / Topic wise / Product Based
+        - Java
+    - [Interview Bit](https://www.interviewbit.com/courses/programming/) file
+    - Fucking Algorithm
+    - HackerEarth [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
+
+————————————————————————————————————
+
+
+</details>
+
+Check this flow :
 
 ![flow](extras/flow.png)
 
@@ -23,7 +73,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 ## A.1 Topics
 <details>
   <summary>Crash Course!</summary>
-  
+
 - [x] [Complexity](topics/complexity.md)
 - [x] [Data Structures](topics/data-structures.md)
 - [ ] [~~Data Structures Examples~~](topics/data-structures-examples.md)
@@ -58,7 +108,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
   - [x] devtools
   - [x] databases
   - [ ] maths
-  
+
 </details>
 
 
@@ -75,8 +125,7 @@ Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/ma
 
 
 ## B.2 Practice questions
-- [Here (53/72)](extras/readme.md) | **Finish by Friday Feb 6 as per plan**
-- Review 50 Question 
+- [Here (53/72)](extras/readme.md) | -Finish by Friday Feb 6 as per plan-- Review 50 Question
 - One daily question afterwards | Design focus | generic questions | review
 - [Fucking algorithm](https://github.com/prshntsuyl/fucking-algorithm/tree/english)
 - [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Microsoft&page=1&company%5B%5D=Microsoft)
@@ -152,16 +201,6 @@ Key pointers specific to leetcode:
 </details>
 
 <details>
-  <summary>Programming Interview Exposed</summary>
-
-</details>
-
-<details>
-  <summary>Grokking Algorithms</summary>
-
-</details>
-
-<details>
   <summary>CTCI</summary>
 
 </details>
@@ -170,6 +209,16 @@ Key pointers specific to leetcode:
   <summary>Concurrent Programming</summary>
 
 </details>
+
+- Fundamentals of Software Architecture: Mark Richards & Neal Ford
+- Distributed systems
+- Kafka an Internal Guide
+- IT Architect
+- Designing data intensive applications
+- Big data
+- Design and Analysis
+
+## D.2 Guides to read
 
 <details>
   <summary>Elements of Programming in Java</summary>
@@ -183,4 +232,60 @@ Key pointers specific to leetcode:
 
 </details>
 
-**REMEBER: Completing this is enough and after this you dont need any further contenet**
+<details>
+  <summary>Programming Interview Exposed</summary>
+
+</details>
+
+
+<details>
+  <summary>Grokking Algorithms</summary>
+
+</details>
+
+
+- Guide to competitive programming
+- CTCI
+- Grokking Algorithms
+
+
+## E Courses
+
+<details>
+  <summary>Courses to cover</summary>
+
+
+**Algorithms Coursera | Part I**
+  - [ ] Week 1
+  - [ ] Week 2
+  - [ ] Week 3
+  - [ ] Week 4
+  - [ ] Week 5
+  - [ ] Week 6
+
+**Algorithms Coursera | Part II**
+  - [ ] Week 1
+  - [ ] Week 2
+  - [ ] Week 3
+  - [ ] Week 4
+  - [ ] Week 5
+  - [ ] Week 6
+
+**Discrete Mathematics | Link**
+  - [ ] Mathematical Thinking in Conputer Science
+  - [ ] Combinatrorics and Probability
+  - [ ] Introduction to Graph Theory
+  - [ ] Number theory and Cryptography
+  - [ ] Delivery Problem
+
+**Software Design And Architecture | Link**
+  - [ ] OOPs
+  - [ ] Design Patterns
+  - [ ] Software Architectures
+  - [ ] SOAs
+
+
+</details>
+
+
+*REMEBER*: Completing this is enough and after this you dont need any further contenet-
