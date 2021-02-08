@@ -241,7 +241,8 @@ Key pointers specific to leetcode:
 <details>
   <summary>Grokking Algorithms</summary>
 
-<details>
+</details>
+
 
 - Guide to competitive programming
 - CTCI
