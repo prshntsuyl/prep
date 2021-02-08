@@ -52,7 +52,7 @@ See [this post](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-
         - …
 - Programming and DSA
     - [GFG](https://www.geeksforgeeks.org/)
-        - [DSA](https://www.geeksforgeeks.org/data-structures/?ref=shm) / Algorithms(https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
+        - [DSA](https://www.geeksforgeeks.org/data-structures/?ref=shm) / [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
         - Must do questions / Topic wise / Product Based
         - Java
     - [Interview Bit](https://www.interviewbit.com/courses/programming/) file
