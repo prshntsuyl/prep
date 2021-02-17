@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-class Scratch {
+class GetMedianInStream {
 
     static PriorityQueue<Integer> maxPriorityQueue = new PriorityQueue<>(10, new MaxComparator());
     static PriorityQueue<Integer> minPriorityQueue = new PriorityQueue<>(10, new MinComparator());
