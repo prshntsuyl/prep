@@ -20,7 +20,9 @@ public class Java8 {
             }
 
         };
-        List<Integer> collect = numberToSort.stream().sorted(comparator).collect(Collectors.toList());
+        List<Integer> collect = numberToSort.stream()
+            .sorted(comparator)
+            .collect(Collectors.toList());
         
         System.out.println(collect.get(0));
         

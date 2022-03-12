@@ -1,4 +1,7 @@
 from collections import deque
+from mimetypes import init
+
+from black import main
 
 
 def stackUsage():
@@ -90,3 +93,17 @@ treeNode = TreeNodeN(123123)
 treeNode.val = 1231
 
 print(treeNode.val)
+
+
+a = [1,2,3,4]
+print(a[-1])
+print(a[1:2])
+print(a[:3])
+print(a[3:])
+
+
+nums = [0, 10, 20, 30, 40, 50]
+for i, num in enumerate(nums):
+    print(f'Index and Num is ', i, num)
+
+

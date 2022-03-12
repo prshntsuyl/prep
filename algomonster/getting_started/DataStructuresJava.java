@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Deque;
 import java.util.HashMap;
 
-public class DataStructures {
+public class DataStructuresJava {
 
     // Array
     String[] clothes;
@@ -24,10 +24,25 @@ public class DataStructures {
 
         stackMethod();
 
+        
+
     }
 
     private static void stackMethod() {
+        System.out.println("-----stack------");
         Deque<Integer> stackObj = new ArrayDeque<Integer>();
+        stackObj.push(0);
+        stackObj.push(1);
+        stackObj.push(2);
+        stackObj.push(3);
+        stackObj.push(4);
+
+        System.out.println(stackObj.peek());
+        stackObj.pop();
+        stackObj.pop();
+        stackObj.pop();
+        stackObj.pop();
+        System.out.println(stackObj.peek());
     }
 
     private static void arrayList() {
