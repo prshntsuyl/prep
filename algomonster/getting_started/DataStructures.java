@@ -2,6 +2,7 @@ package algomonster.getting_started;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Deque;
 import java.util.HashMap;
 
 public class DataStructures {
@@ -17,19 +18,29 @@ public class DataStructures {
         array();
         arrayList();
 
+        LinkedListNode llNode = new LinkedListNode(1231);
+        LinkedListNode llNode2 = new LinkedListNode(1232);
+        llNode.next = llNode2;
+
+        stackMethod();
+
+    }
+
+    private static void stackMethod() {
+        Deque<Integer> stackObj = new ArrayDeque<Integer>();
     }
 
     private static void arrayList() {
-        int[] numbers = {20, 6, 13, 5};
+        int[] numbers = { 20, 6, 13, 5 };
         // simple for loop goes through indices so we fetch elements using indices
         for (int i = 0; i < numbers.length; i++) {
-           int number = numbers[i];
-           System.out.println(number);
+            int number = numbers[i];
+            System.out.println(number);
         }
-        
+
         // for-each loop directly fetches elements
         for (int number : numbers) {
-           System.out.println(number);
+            System.out.println(number);
         }
     }
 
@@ -76,4 +87,35 @@ public class DataStructures {
         // Removing the top item from the stack
         stack.remove(stack.size() - 1);
     }
+
+    static class LinkedListNode {
+        public int val;
+        public LinkedListNode next;
+
+        public LinkedListNode(int val) {
+            this.val = val;
+        }
+    }
+
+    static class TreeNode {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+
+        public TreeNode(int val) {
+            this.val = val;
+        }
+    }
+
+    static class TreeNodeNary {
+        public int val;
+        public ArrayList<TreeNode> children;
+
+        public TreeNodeNary(int val) {
+            this.val = val;
+            this.children = new ArrayList<TreeNode>();
+        }
+
+    }
+
 }
