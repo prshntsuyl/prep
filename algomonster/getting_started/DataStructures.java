@@ -2,13 +2,51 @@ package algomonster.getting_started;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class DataStructures {
+
+    // Array
+    String[] clothes;
+    int[] numbers;
 
     public static void main(String[] args) {
         stackUsingArray();
         queue();
+        hashmap();
+        array();
+        arrayList();
 
+    }
+
+    private static void arrayList() {
+        int[] numbers = {20, 6, 13, 5};
+        // simple for loop goes through indices so we fetch elements using indices
+        for (int i = 0; i < numbers.length; i++) {
+           int number = numbers[i];
+           System.out.println(number);
+        }
+        
+        // for-each loop directly fetches elements
+        for (int number : numbers) {
+           System.out.println(number);
+        }
+    }
+
+    private static void array() {
+        arrayList();
+    }
+
+    private static void hashmap() {
+        // Initialize a new hash map
+        HashMap<String, Integer> hashmap = new HashMap<>();
+        // Set the entry represented by "John" to 28
+        hashmap.put("John", 28);
+        // Check if "John" is in the hash map
+        if (hashmap.containsKey("John")) {
+            // Print the entry represented by "John"
+            System.out.println(hashmap.get("John"));
+        }
     }
 
     private static void queue() {
