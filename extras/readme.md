@@ -58,6 +58,7 @@
 - [x] [Reverse Separated Words](../practice/strings/)
 - [x] [44 | Cyclic Shifts](../practice/strings/CyclicShift.java)
 - [x] [43 | Monk And Rotation](../practice/strings/MonkAndRotation.java)
+- [x] [Isopmorphic](../practice/strings/Isomorphic.java) 
 
 
 ### Arrays
